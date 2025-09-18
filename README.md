@@ -63,5 +63,3 @@ This dashboard simulates how an analytics team might support:
 
 ---
 
-## 📁 File Structure
-
